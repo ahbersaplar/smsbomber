@@ -16,7 +16,7 @@ https://replit.com/@tingirifistik/Enough
 git clone https://github.com/ahbersaplar/smsbomber.git
 cd AHBER
 pip3 install -r requirements.txt
-python3 enough.py
+python3 ahber.py
 ```
 
 
